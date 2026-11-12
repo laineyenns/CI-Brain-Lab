@@ -1,9 +1,9 @@
 # Neurophysiological Correlates of Top-Down Alpha Oscillatory Modulation and Neural Entrainment as Mechanisms of Attention in Children Cochlear Implant Patients
 
-**Author:** Lainey Enns
-**Lab:** Cochlear Implant (CI) Brain Lab, Otolaryngology – Head and Neck Surgery, Sunnybrook Health Sciences Centre
-**Supervisor:** Dr. Andrew Dimitrijevic
-**Period:** May–December 2023
+- **Author:** Lainey Enns
+- **Lab:** Cochlear Implant (CI) Brain Lab, Otolaryngology – Head and Neck Surgery, Sunnybrook Health Sciences Centre
+- **Supervisor:** Dr. Andrew Dimitrijevic
+- **Period:** May–December 2023
 
 📄 **[Read the full manuscript (PDF)](CI_Brain_Lab.pdf)**
 
